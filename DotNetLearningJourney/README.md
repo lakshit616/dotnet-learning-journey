@@ -4,7 +4,7 @@ A beginner-friendly C# console project for practicing core .NET concepts and sha
 
 ## Run the examples
 
-From the repository root, run:
+From this directory, run:
 
 ```sh
 dotnet run --project DotNetLearningJourney/DotNetLearningJourney.csproj
